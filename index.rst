@@ -1,5 +1,6 @@
-# Manual Basico
-
+***************
+Manual Basico
+***************
 Marca Lleida es un concesionario de coche.
 Que permite hacer el programario?
 
@@ -11,7 +12,9 @@ Que permite hacer el programario?
 
 Desglose del programario:
 
-## Aplicacion privada
+====================
+ Aplicacion privada
+====================
 
 Los usuarios estan clasificado segun el rango que tengan.
   - Administrador
@@ -33,49 +36,83 @@ Director, Asessor Interno, Assesor Externo:
 Taller:
   - Modificar Vehiculos y compras.
 
-## Aplicacion privada funcionalidad
+================================
+Aplicacion privada funcionalidad
+================================
 
 > La aplicacion permite que unos usuarios con unos permisos concretos
 > puedan realizar varias acciones en la gestion.
 
-### Adminsitrador
-##### El administrador puede generar:
+Adminsitrador
+=================
+El administrador puede generar:
+-------------------------------------
 Listar Usuarios:
-![Listar Usuarios](/fotosmanual/C_Clientes.PNG)
+..
+*****************
+.. image:: /Manual/fotosmanual/L_Usuario.PNG
 Crear Usuarios:
-![Crear Usuarios](/fotosmanual/C_Usuario.png)
+..
+*****************
+.. image:: /Manual/fotosmanual/C_Usuario.PNG
 Modificar Usuario:
-![Modificar Usuarios](/fotosmanual/E_Usuario.png)
+..
+*****************
+.. image:: /Manual/fotosmanual/E_Usuario.PNG
 
-##### El Director, Asessor Interno, Assesor Externo puede generar:
+El Director, Asessor Interno, Assesor Externo puede generar:
+------------------------------------------------------------
 Listar Cliente:
-![Listar Cliente](/fotosmanual/L_Clientes.png)
+..
+*****************
+.. image:: /Manual/fotosmanual/C_Clientes.PNG
 Crear Cliente:
-![Crear Cliente](/fotosmanual/C_Clientes.png)
+..
+*****************
+.. image:: /Manual/fotosmanual/E_Clientes.PNG
 Modificar Cliente:
-![Modificar Cliente](/fotosmanual/E_Clientes.png)
+..
+*****************
+.. image:: /Manual/fotosmanual/L_Compras.PNG
 
 Listar Compras:
-![Listar Compras](/fotosmanual/L_Compras.png)
+..
+*****************
+.. image:: /Manual/fotosmanual/C_Compras.PNG
 Crear Compras:
-![Crear Compras](/fotosmanual/C_Compras.png)
+..
+*****************
+.. image:: /Manual/fotosmanual/E_Compras.PNG
 Modificar Compras:
-![Modificar Compras](/fotosmanual/E_Compras.png)
+..
+*****************
+.. image:: /Manual/fotosmanual/L_Ventas.PNG
 
 Listar Ventas:
-![Listar Ventas](/fotosmanual/L_Ventas.png)
+..
+*****************
+.. image:: /Manual/fotosmanual/C_Ventas.PNG
 Crear Ventas:
-![Crear Ventas](/fotosmanual/C_Ventas.png)
+..
+*****************
+.. image:: /Manual/fotosmanual/E_Ventas.PNG
 Modificar Ventas:
-![Modificar Ventas](/fotosmanual/E_Ventas.png)
+..
+*****************
+.. image:: /Manual/fotosmanual/L_Vhiculos.PNG
 
 Listar Vhiculos:
-![Listar Vhiculos](/fotosmanual/L_Vhiculos.png)
+..
+*****************
+.. image:: /Manual/fotosmanual/C_Vhiculos.PNG
 Crear Vhiculos:
-![Crear Vhiculos](/fotosmanual/C_Vhiculos.png)
+..
+*****************
+.. image:: /Manual/fotosmanual/E_Vhiculos.PNG
 Modificar Vhiculos:
-![Modificar Vhiculos](/fotosmanual/E_Vhiculos.png)
 
-##### El Taller puede generar:
+
+El Taller puede generar:
+------------------------------
 Listar Vehiculos:
-![Listar Vehiculos](/fotosmanual/L_Taller.png)
+.. image:: /Manual/fotosmanual/L_Taller.PNG
